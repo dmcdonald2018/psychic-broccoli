@@ -4,27 +4,27 @@
   "name": "BoneBuilder, Inc.",
   "icons": [
     {
-      "src": "/assets/images/apple-icons/bb-apple-icon-57.png",
+      "src": "/apple-icons/bb-apple-icon-57.png",
       "type": "image/png",
       "sizes": "57x57"
     },
     {
-      "src": "/assets/images/apple-icons/bb-apple-icon-144.png",
+      "src": "/apple-icons/bb-apple-icon-144.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "/assets/images/apple-icons/bb-apple-icon-155.png",
+      "src": "/apple-icons/bb-apple-icon-155.png",
       "type": "image/png",
       "sizes": "155x155"
     },
       {
-      "src": "/assets/images/apple-icons/bb-apple-icon-192.png",
+      "src": "/apple-icons/bb-apple-icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
       {
-      "src": "/assets/images/apple-icons/bb-apple-icon-512.png",
+      "src": "/apple-icons/bb-apple-icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
